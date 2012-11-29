@@ -313,6 +313,8 @@ https://developer.mozilla.org/en-US/docs/Persona/Libraries_and_plugins
 
 https://developer.mozilla.org/en-US/docs/persona/branding
 
+https://wiki.mozilla.org/Identity/MobileSDK
+
 ### FirefoxOS
 
 https://wiki.mozilla.org/B2G
