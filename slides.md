@@ -3,11 +3,14 @@
 
 ---------------------------------------------------
 
-Jed Parsons / `jparsons@mozilla.com` / `@drainmice`
+**Jed Parsons**, Engineer, Mozilla
 
-DevCon5, San Francisco
+- `jparsons@mozilla.com`
+- `@drainmice`
 
-29 Nov 2012
+DevCon5, San Francisco, 29 Nov 2012
+
+**Presentation Source**: [https://github.com/jedp/introducing-persona](https://github.com/jedp/introducing-persona)
 
 ## tl;dr
 
@@ -155,7 +158,17 @@ Source: [http://news.ycombinator.com/item?id=4599881](http://news.ycombinator.co
 
 Source: [http://news.ycombinator.com/item?id=4232505](http://news.ycombinator.com/item?id=4232505)
 
-My own experience with Anson School District
+## Ease of Implementation
+
+> Done!
+
+Phone call with: [http://everfi.com/](http://everfi.com/) and Anson County School District
+
+## Ease of Implementation
+
+> That was actually simpler than I thought it would be.
+
+Sean Moffatt of [Joomla!](http://www.joomla.org/), writing a Persona plugin for the Joomla! CMS.
 
 ## Summary of Key Properties
 
