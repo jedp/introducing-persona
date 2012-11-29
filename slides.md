@@ -112,6 +112,16 @@ Second time flow:
 2. **Select an email address**
 3. Done
 
+## Let's Check it Out
+
+- http://crossword.thetimes.co.uk/
+
+- https://www.voo.st/events
+
+- http://myfavoritebeer.org/
+
+- http://123done.org/
+
 ## Why Email Addresses
 
 - People know them
@@ -182,7 +192,7 @@ If this makes your eyes glaze over, until the next three slides are passed, you 
 
 - **Fluffball** runs the **Identity Provider**, `fluffball.com`
 
-- **Joan** runs `JoansHats.com`, the **Relying Party**
+- **Joan** runs `HatsByJoan.com`, the **Relying Party**
 
 Plot: Francine wants to login to `HatsByJoan.com` as `francine@fluffball.com`.
 
