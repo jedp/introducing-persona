@@ -110,7 +110,11 @@ Second time flow:
 2. **Select an email address**
 3. Done
 
-## Let's Check it Out
+## Live Demo Time
+
+![live demo](img/montparnasse.400.jpg)
+
+## Test Drive
 
 - http://crossword.thetimes.co.uk/
 
@@ -151,6 +155,7 @@ Source: [http://news.ycombinator.com/item?id=4599881](http://news.ycombinator.co
 
 Source: [http://news.ycombinator.com/item?id=4232505](http://news.ycombinator.com/item?id=4232505)
 
+My own experience with Anson School District
 
 ## Summary of Key Properties
 
@@ -194,7 +199,7 @@ If this makes your eyes glaze over, until the next three slides are passed, you 
 
 Plot: Francine wants to login to `HatsByJoan.com` as `francine@fluffball.com`.
 
-If she can convince Joan that she owns that email, Joan will let her buy hats.
+If she can convince Joan of her identity, Joan will let her buy hats.
 
 ## 1. Identity Provisioning
 
@@ -285,14 +290,18 @@ We're still in Beta, and things might still change.
       return callback(null, JSON.parse(body));
     });
 
-## Live Demo Time
-
-![live demo](img/montparnasse.400.jpg)
-
 ## Links for You
+
+### Persona
 
 https://developer.mozilla.org/en-US/docs/Persona
 
 https://developer.mozilla.org/en-US/docs/Persona/Libraries_and_plugins
 
 https://developer.mozilla.org/en-US/docs/persona/branding
+
+### FirefoxOS
+
+https://wiki.mozilla.org/B2G
+
+https://hacks.mozilla.org/2012/10/r2d2b2g-an-experimental-prototype-firefox-os-test-environment/
