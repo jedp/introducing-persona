@@ -1,8 +1,6 @@
 ## Mozilla Persona
 ### For Good and For Awesome
 
-` `
-
 ---------------------------------------------------
 
 Jed Parsons / `jparsons@mozilla.com` / `@drainmice`
