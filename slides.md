@@ -303,6 +303,16 @@ We're still in Beta, and things might still change.
       return callback(null, JSON.parse(body));
     });
 
+## Security Considerations
+
+[https://developer.mozilla.org/en-US/docs/Persona/Security_Considerations](https://developer.mozilla.org/en-US/docs/Persona/Security_Considerations)
+
+- Verify assertions on your server
+- Specify the `audience` parameter to the verifier
+- Use HTTP libraries that verify SSL certs
+- Implement CSRF (Cross-Site Request Forgery) protection
+- Implement CSP (Content Security Policy)
+
 ## Links for You
 
 ### Persona
