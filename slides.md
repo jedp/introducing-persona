@@ -289,7 +289,7 @@ We're still in Beta, and things might still change.
 
     var body = qs.stringify({
       assertion: assertion,
-      audience: yourSite
+      audience: YOUR_SITE
     });
     var options = {
       uri: 'https://verifier.login.persona.org/verify',
@@ -302,6 +302,20 @@ We're still in Beta, and things might still change.
       if (err) return  callback(err);
       return callback(null, JSON.parse(body));
     });
+
+## Verifier Return Values
+
+The verifier will return JSON like so:
+
+    {
+      "status": "okay",
+      "email": "francine@fluffball.com",
+      "audience": "https://shoesbyjoan.com",
+      "expires": 1354217396705,
+      "issuer": "fluffball.com"
+    }
+
+If the assertion was not good, the `status` will not be `okay`.
 
 ## Security Considerations
 
