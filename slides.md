@@ -329,11 +329,15 @@ If the assertion was not good, the `status` will not be `okay`.
 
 ## Links for You
 
+### Talk to Us!
+
+https://lists.mozilla.org/listinfo/dev-identity
+
+\#identity on irc.mozilla.org
+
 ### Persona
 
 https://developer.mozilla.org/en-US/docs/Persona
-
-https://developer.mozilla.org/en-US/docs/Persona/Libraries_and_plugins
 
 https://developer.mozilla.org/en-US/docs/persona/branding
 
